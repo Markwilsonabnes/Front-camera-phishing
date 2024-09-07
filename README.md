@@ -2,7 +2,7 @@ Ethical hacking and cybersecurity enthusiasts dedicated to learning and sharing 
 
 # Front-camera-phishing
 
-# installation 👇
+ installation 👇
 
 1. git clone https://github.com/Markwilsonabnes/Front-camera-phishing.git
 
@@ -10,11 +10,11 @@ Ethical hacking and cybersecurity enthusiasts dedicated to learning and sharing 
 
 3. bash camphish.sh
 
-# run 👆
+ run 👆
 
-# you can run this tool in 
+ you can run this tool in 
 
-# Kali Linux
-# termux
-# ubuntu
-# in any Linux os
+ Kali Linux
+ termux
+ ubuntu
+ in any Linux os
