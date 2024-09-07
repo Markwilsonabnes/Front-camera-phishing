@@ -1,6 +1,6 @@
 #!/bin/bash
 # CamPhish v1.0
-# Powered by Mark Wilson Abnes 
+# Powered by hacker 
 
 trap 'printf "\n";stop' 2
 
