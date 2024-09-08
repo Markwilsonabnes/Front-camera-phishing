@@ -1,8 +1,8 @@
 Ethical hacking and cybersecurity enthusiasts dedicated to learning and sharing knowledge for a secure digital world. and always remember this tool is only for education purpose🐧
 
 
-# disclaimer
-The use this tool is COMPLETE RESPONSIBILITY. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read LICENSE.
+# Disclaimer
+use this tool is COMPLETE RESPONSIBILITY. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read LICENSE.
 
 
 # Front-camera-phishing
